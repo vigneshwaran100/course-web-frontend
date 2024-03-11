@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+}
+.container{
+    width: 70%;
+    margin: 0px auto;
+}
+#header{
+    height: 90px;
+}
+#header img{
+    width: 200px;
+    height: 100px;
+}
+#header ul{
+    float: right;
+    margin-top: 50px;
+
+}
+#header ul li{
+    display: inline;
+
+}
+#header ul li a{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 16px;
+}
+.pic1 img{
+    margin-top: 80px;
+    width: 100%;
+}
+#three{
+    margin-top: 20px;
+    width: 32%;
+    height: 540px;
+    background-color: cyan;
+    margin-right: 2%;
+    float: left;
+}
+.heading{
+    color: brown;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.para{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 20px;
+    text-align: justify;
+}
+.read{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: rgb(169, 164, 164);
+    margin: 30px 20px;
+    padding: 10px;
+}
+#two{
+    margin-top: 20px;
+    width: 32%;
+    height: 540px;
+    background-color: orange;
+    float: left;
+}
+#one{
+    width: 32%;
+    height: 540px;
+    background-color: chartreuse;
+    float: right;
+    margin-top: 20px;
+
+}
+.btm{
+    width: 48%;
+    float: left;
+    border: 2px black solid;
+    margin: 20px 0;
+    padding: 20px;
+}
+.btm h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 28px;
+  
+}
+.btm p{
+    text-align: justify;
+    font-size: 18px;
+}
+.btm2{
+    width: 40%;
+    float: right;
+    border: 2px black solid;
+    margin: 20px 0;
+    padding: 20px;
+    
+}
+.btm2 h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+  
+}
+.btm2 p{
+    text-align: justify;
+    font-size: 18px;
+}
+.btm2 img{
+
+}
+footer{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    color: white;
+    clear: both;
+    text-align: center;
+    font-size: 30px;
+}
